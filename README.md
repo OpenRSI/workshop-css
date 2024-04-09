@@ -15,5 +15,5 @@ Tous vos TPs doivent être déposés sur votre site Internet et font l'objet de 
 
 [TP-6](tp-6/tp-6.md) - Formulaire et design - **TP6CSS.html**  
 
-[TP-projet](tp-projet/tp-projet.md) - Site internet Burger - **TP_Projet.html**  
+[TP-Projet](tp-projet/tp-projet.md) - Site internet Burger - **TP_Projet.html**  
   
