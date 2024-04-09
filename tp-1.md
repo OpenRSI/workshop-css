@@ -1,8 +1,8 @@
 ## TP 1 : CSS 
 
-Merci de vous créer un compte https://codepen.io/ pour faire les exercices suivants et sauvegarder votre travail avant de l'envoyer.
+Merci de vous créer un nouveau fichier TP1CSS.html et de le mettre en ligne sur votre site Internet.
 
-6 liens sont attendus.
+6 exerices sont attendus dans ce TP.
 
 
 ### Exercice 1 : Modifier la taille de la police
