@@ -1,4 +1,4 @@
-# workshop-css
+# TP-CSS
 
 #### Pré-requis :
 Tous vos TPs doivent être déposés sur votre site Internet et font l'objet de fichiers séparés : 
