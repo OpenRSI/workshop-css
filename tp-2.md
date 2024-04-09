@@ -1,6 +1,6 @@
 ## TP 2 : CSS
 
-A faire sur codepen
+Merci de créer un nouveau fichier TP2CSS.html et de le mettre en ligne sur votre site Internet.
 
 ## Remarque
 
